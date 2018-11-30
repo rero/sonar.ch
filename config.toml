@@ -1,4 +1,4 @@
-baseURL = "https://sonardotch.netlify.com"
+baseURL = "https://sonardotch.netlify.com/"
 languageCode = "en-us"
 title = "SONAR"
 
