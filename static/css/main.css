@@ -2555,7 +2555,8 @@
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
+		/*padding: 8em 4em 4em 4em;*/  /*SONAR*/
+		padding: 4em 4em 4em 4em;  /*SONAR*/
 		width: calc(100% - 35%);
 	}
 
@@ -2856,7 +2857,8 @@
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				/*padding: 6em 3em 3em 3em;*/ /*SONAR*/
+				padding: 3em 3em 3em 3em; /*SONAR*/
 				width: 30%;
 			}
 
@@ -2888,7 +2890,8 @@
 			#main {
 				margin-left: 30%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				/*padding: 6em 3em 3em 3em;*/  /*SONAR*/
+				padding: 3em 3em 3em 3em;  /*SONAR*/
 				width: calc(100% - 30%);
 			}
 
@@ -2917,7 +2920,8 @@
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				/*padding: 6em 4em;*/ /*SONAR*/
+				padding: 4em 4em; /*SONAR*/
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -2971,7 +2975,8 @@
 
 			#main {
 				margin: 0;
-				padding: 6em 4em;
+				/*padding: 6em 4em;*/ /*SONAR*/
+				padding: 4em 4em; /*SONAR*/
 				width: 100%;
 			}
 
