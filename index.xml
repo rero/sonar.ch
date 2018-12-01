@@ -6,9 +6,49 @@
     <description>Recent content on SONAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 30 Nov 2018 13:30:54 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The SONAR Project has Started</title>
+      <link>/post/the-sonar-project-has-started/</link>
+      <pubDate>Fri, 30 Nov 2018 13:30:54 +0100</pubDate>
+      
+      <guid>/post/the-sonar-project-has-started/</guid>
+      <description>Post Header CONTENT</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>/credits/</link>
+      <pubDate>Tue, 27 Nov 2018 10:40:53 +0100</pubDate>
+      
+      <guid>/credits/</guid>
+      <description>Icons:
+ teamwork by Aneeque Ahmed from the Noun Project international by Laymik from the Noun Project  </description>
+    </item>
+    
+    <item>
+      <title>The Project</title>
+      <link>/project/</link>
+      <pubDate>Tue, 27 Nov 2018 10:40:53 +0100</pubDate>
+      
+      <guid>/project/</guid>
+      <description>Project Inception The SONAR project is co-funded by swissuniversities in the framework of the P-5 &amp;ldquo;Scientific Information&amp;rdquo; Program.
+The project has been submitted in February 2018 and accepted in June 2018. An abridged version of the project application document is available here.
+Facts  Duration: November 2018 – October 2020 (24 months) Total cost (incl. own funding): 997&amp;rsquo;800 CHF Main building block: Digital Library RERO DOC Software platform: Invenio 3  Goals Science showcase “collect, promote and preserve scholarly publications by authors affiliated with Swiss public research institutions”</description>
+    </item>
+    
+    <item>
+      <title>The Service</title>
+      <link>/service/</link>
+      <pubDate>Tue, 27 Nov 2018 10:40:53 +0100</pubDate>
+      
+      <guid>/service/</guid>
+      <description> Future Services Functional Overview </description>
+    </item>
     
   </channel>
 </rss>
