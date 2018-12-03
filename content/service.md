@@ -20,7 +20,7 @@ Besides collecting publications and metadata from external sources, SONAR also s
 - As **dedicated independent portals**, each with their own distinct identity and policies.
 
 
-Swiss institutions of higher education intersted in an institutional repository solution in the framework of SONAR have two possibilities:
+Swiss institutions of higher education interested in an institutional repository solution in the framework of SONAR have two possibilities:
 
 1. Wait for the first IRaaS deployment scheduled for mid-2019 (the multi-institutional form).
 2. In case of urgency, it is possible to temporarily subscribe to the <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a> service provided by <a href="https://www.rero.ch/">RERO</a>. The migration to SONAR will then be taken care of by the SONAR team.
@@ -39,7 +39,7 @@ Swiss institutions of higher education intersted in an institutional repository 
 				</ul>
 				<h3>Content tracking</h3>
 				<ul>
-					<li>Recovering Swiss publications from external sources and feeding the back to existing Swiss IRs [2020]</li>
+					<li>Recovering Swiss publications from external sources and feeding them back to existing Swiss IRs [2020]</li>
 				</ul>
 				<h3>Monitoring</h3>
 				<ul>
