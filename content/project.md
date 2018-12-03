@@ -14,7 +14,7 @@ SONAR is a project carried out by a consortium of four institutions:
 - <a href="https://usi.ch/">USI</a>: Università della Svizzera italiana
 
 
-The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018. An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf).
+The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018. An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf). It provides a more detailed description of the motivations, goals and planned implementation.
 
 
 <section id="two">
@@ -34,7 +34,7 @@ The project is co-funded by [swissuniversities](https://www.swissuniversities.ch
 				</ul>
 				<h3>Institutional Repository as a Service (IRaaS)</h3>
 				<ul>
-					<li>Shared, multi-institutional repository (à la RERO DOC)</li>
+					<li>Shared, multi-institutional repository</li>
 					<li>Dedicated (private) repository instances</li>
 				</ul>
 			</div>

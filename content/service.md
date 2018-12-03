@@ -4,23 +4,46 @@ date: 2018-11-27T10:40:53+01:00
 draft: false
 ---
 
-## Future Services
+During its project phase, SONAR will be deploying different kinds of services, namely:
 
-Besides collecting publications and metadata from external sources, it also serves as a deposit for directly hosting publications from interested academic institutions (Institutional Repository as a Service - IRaaS). This kind of service will be provided in two distinct forms: either as a shared, multi-institutional interface, or as dedicated independent instances, each with their own distinct identity.
+1. Institutional Repository as a Service (IRaaS)
+2. Content tracking: recovering Swiss publications from external sources and feeding the back to existing Swiss IRs
+3. Open Access monitoring
+
+The former is a kind of service that has been provided by <a href="https://www.rero.ch/">RERO</a> for several years with the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>. As for the 2nd and 3rd types, they have a more prospective character, and their precise form will be defined in the course of the project.
+
+## Institutional Repository as a Service (IRaaS)
+
+Besides collecting publications and metadata from external sources, SONAR also serves as a deposit for directly hosting publications from interested academic institutions. This kind of service will be provided in two distinct forms:
+
+- As a **shared, multi-institutional portal**, with a single common search and navigation interface, as well as common self-archiving policies and metadata schemes. The contents of each institution are distinguished by means of collections, navigation paths in the search interface (facets) as well as some visual customization at the document level.
+- As **dedicated independent portals**, each with their own distinct identity and policies.
+
+
+Swiss institutions of higher education intersted in an institutional repository solution in the framework of SONAR have two possibilities:
+
+1. Wait for the first IRaaS deployment scheduled for mid-2019 (the multi-institutional form).
+2. In case of urgency, it is possible to temporarily subscribe to the <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a> service provided by <a href="https://www.rero.ch/">RERO</a>. The migration to SONAR will then be taken care of by the SONAR team.
 
 <section id="two">
 	<div class="row">
 		<article class="6u 12u$(xsmall) work-item">
 			<div class=" project-info">
 				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
-				<h2>Future Services</h2>
+				<h2>Service Summary</h2>
 				<h3>IRaaS &ndash; Institutional Repository as a Service</h3>
-				This kind of service will be provided in two distinct forms:
+				Provided in two distinct forms:
 				<ul>
-					<li>As a <strong>shared, multi-institutional portal</strong>, with a single common search and navigation interface, as well as common self-archiving policies and metadata schemes. The contents of each institution are distinguished by means of collections, navigation paths in the search interface (facets) as well as some visual customization at the document level.<br>
-					[Scheduled for mid-2019]</li>
-					<li>As <strong>dedicated independent portals</strong>, each with their own distinct identity and policies.<br>
-					[Scheduled for 2020]</li>
+					<li>As a shared, multi-institutional portal [mid-2019]</li>
+					<li>As dedicated, individually customized portals [2020]</li>
+				</ul>
+				<h3>Content tracking</h3>
+				<ul>
+					<li>Recovering Swiss publications from external sources and feeding the back to existing Swiss IRs [2020]</li>
+				</ul>
+				<h3>Monitoring</h3>
+				<ul>
+					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/">Swiss national Open Access strategy</a> and its action plan [2020]</li>
 				</ul>
 			</div>
 		</article>
@@ -29,9 +52,17 @@ Besides collecting publications and metadata from external sources, it also serv
 				<img class="" src="/images/noun_Calendar_867716_modif.svg" alt="" />
 				<h2>Schedule</h2>
 				<h3>2018-2020</h3>
-				During this period, SONAR takes the form of a <a href="/project/">project</a>. In the meantime, it will progressively  give rise to full-fledged durable services.
+				<ul>
+					<li>Project Phase: During this period, SONAR takes the form of a <a href="/project/">project</a>. In the meantime, it will progressively  give rise to full-fledged durable services.</li>
+				</ul>
 				<h3>Mid-2019</h3>
-				The first version of SONAR, namely its IRaaS component, will be operational in the course of 2019, taking over and improving the current service already provided by <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a>, with a renewed and improved version of the service that it currently provides.
+				<ul>
+					<li>The first version of SONAR, namely its IRaaS component, will be operational in the course of 2019, taking over and improving the current service already provided by <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a>, with a renewed and improved version of the service that it currently provides.</li>
+				</ul>
+				<h3>2020</h3>
+				<ul>
+					<li>Prospective services (content tracking, monitoring) will be progresively deployed.</li>
+				</ul>
 			</div>
 		</article>
 	</div>
@@ -42,6 +73,4 @@ Besides collecting publications and metadata from external sources, it also serv
 
 <a href="/documents/sonar-schema_20181022.svg" class="image fit thumb"><img src="/documents/sonar-schema_20181022.svg" alt="" /></a>
 
-
-<!-- ![SONAR schema](/documents/sonar-schema_20181022.svg) -->
 

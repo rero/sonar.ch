@@ -38,8 +38,8 @@ sectionPagesMenu = "main"
 		facebook = ""
 
 		copyright = [
-			"",
-			"",
+			"&copy; 2018 RERO",
+			"[(?)sonar.info@rero.ch](mailto:sonar.info@rero.ch)",
 			"[Credits](/credits/)"
 		]
 
@@ -47,10 +47,7 @@ sectionPagesMenu = "main"
 		hide  = false
 		title = "Swiss Open Access Repository"
 		content = """
-SONAR collects scientific publications from Swiss institutional repositories (IR) and international subject repositories.
-
-<li>Content aggregation: from Swiss IRs and international subject repositories</li>
-<li>Content dissemination: to Swiss IRs and the Web</li>
+SONAR is an archive of scholarly publications. It intends to collect, promote and preserve the publications of authors affiliated with Swiss public research institutions.
 
 <div class="homepage-promotion">
 <a href="/project/">
@@ -67,7 +64,11 @@ SONAR collects scientific publications from Swiss institutional repositories (IR
 </a>
 </div>
 
-SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/) and its action plan.
+It acts as an **aggregator**, by bringing together the content and metadata of existing platforms and servers, including the institutional repositories (IR) of Swiss institutions of higher education, as well as international subject repositories. It also operates as a content **disseminator**: both to Swiss IRs and to the Web at large, namely to search engines of scholarly literature such as Google Scholar and Microsoft Academic.
+
+Besides its automated harvesting service, it as also possible for authors to directly deposit publications in SONAR, as it offers interested Swiss universities the possibility of subscribing to an outsourced institutional repository service.
+
+SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
 """
 
 	[params.portfolio]
@@ -119,8 +120,8 @@ SONAR contributes to the [Swiss national Open Access strategy](https://www.swiss
 	[params.contact]
 		hide  = false
 		title = "Stay informed"
-		content = "You can subscribe to our newsletter... [add subscription form]"
-		email = ""
+		content = "You can subscribe to our newsletter... [add subscription form] or contact us at [(?)sonar.info@rero.ch](mailto:sonar.info@rero.ch)"
+		email = "?sonar.info@rero.ch"
 
 
 # Menu links that appear on the left sidebar
