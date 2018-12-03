@@ -49,11 +49,14 @@ sectionPagesMenu = "main"
 		content = """
 SONAR collects scientific publications from Swiss institutional repositories (IR) and international subject repositories.
 
+<li>Content aggregation: from Swiss IRs and international subject repositories</li>
+<li>Content dissemination: to Swiss IRs and the Web</li>
+
 <div class="homepage-promotion">
 <a href="/project/">
 <div class="homepage-promotion-link">
 <h3>The Project</h3>
-<img src="/images/noun_teamwork_1071941_modif.svg">
+<img src="/images/noun_Blueprint_1050_000000_modif.svg">
 </div>
 </a>
 <a href="/service/">
@@ -128,7 +131,7 @@ SONAR contributes to the [Swiss national Open Access strategy](https://www.swiss
 
 [[menu.main]]
  	name = "The Project"
- 	url  = "/project/"
+ 	url  = "project/"
  	weight = 0
 
 [[menu.main]]

@@ -8,3 +8,6 @@ Icons:
 
 - [teamwork](https://thenounproject.com/icon/1071941/) by Aneeque Ahmed from the Noun Project
 - [international](https://thenounproject.com/icon/1670627/) by Laymik from the Noun Project
+- [Calendar](https://thenounproject.com/icon/867716) by Thengakola from the Noun Project
+- [Checklist](https://thenounproject.com/icon/963935) by Dinosoft Labs from the Noun Project
+- [goal](https://thenounproject.com/icon/1607166) by Dinosoft Labs from the Noun Project
