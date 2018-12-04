@@ -61,7 +61,7 @@ Swiss institutions of higher education interested in an institutional repository
 				</ul>
 				<h3>2020</h3>
 				<ul>
-					<li>Prospective services (content tracking, monitoring) will be progresively deployed.</li>
+					<li>Prospective services (content tracking, monitoring) will be progressively deployed.</li>
 				</ul>
 			</div>
 		</article>
