@@ -39,7 +39,7 @@ sectionPagesMenu = "main"
 
 		copyright = [
 			"&copy; 2018 RERO",
-			"[(?)sonar.info@rero.ch](mailto:sonar.info@rero.ch)",
+			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
 
@@ -120,8 +120,8 @@ SONAR contributes to the [Swiss national Open Access strategy](https://www.swiss
 	[params.contact]
 		hide  = false
 		title = "Stay informed"
-		content = "You can subscribe to our newsletter... [add subscription form] or contact us at [(?)sonar.info@rero.ch](mailto:sonar.info@rero.ch)"
-		email = "?sonar.info@rero.ch"
+		content = "You can subscribe to our newsletter... [add subscription form] or contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)"
+		email = "info.sonar@rero.ch"
 
 
 # Menu links that appear on the left sidebar
