@@ -2939,6 +2939,10 @@
 						display: inline;
 					}
 
+					#header h1 em {
+						display: none;
+					}
+
 		/* Footer */
 
 			#footer {
@@ -3025,11 +3029,15 @@
 		/* Header */
 
 			#header {
-				padding: 2.25em 1.5em;
+				padding: 1.5em 1.5em; /*2.25em 1.5em; SONAR*/
 			}
 
 				#header h1 {
 					font-size: 1.35em;
+				}
+
+				#header h1 em {
+					display: none;
 				}
 
 		/* Footer */
@@ -3103,10 +3111,14 @@
 		/* Header */
 
 			#header {
-				padding: 4.5em 1.5em;
+				padding: 2.5em 1.5em; /*4.5em 1.5em; SONAR*/
 			}
 
 				#header h1 br {
+					display: none;
+				}
+
+				#header h1 em {
 					display: none;
 				}
 
