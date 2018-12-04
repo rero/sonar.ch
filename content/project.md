@@ -14,8 +14,11 @@ SONAR is a project carried out by a consortium of four institutions:
 - <a href="https://usi.ch/">USI</a>: Università della Svizzera italiana
 
 
-The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018. An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf). It provides a more detailed description of the motivations, goals and planned implementation.
+The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018.
 
+<a href="https://www.swissuniversities.ch"><img id="swissuniversities" src="/images/partners/swissuniversities_Logo_minimal_Rot_PANTONE.svg"></a>
+
+An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf). It provides a more detailed description of the motivations, goals and planned implementation.
 
 <section id="two">
 	<div class="row">
@@ -54,37 +57,6 @@ The project is co-funded by [swissuniversities](https://www.swissuniversities.ch
 	</div>
 </section>
 
-
-
-<!-- ## Facts
-
-- Duration: November 2018 – October 2020 (24 months)
-- Total cost (incl. own funding): 997'800 CHF
-- Main building block: [Digital Library RERO DOC](https://doc.rero.ch/)
-- Software platform: [Invenio 3](https://invenio-software.org)
-
-## Goals
-
-### Science showcase
-
-*“collect, promote and preserve scholarly publications by authors affiliated with Swiss public research institutions”*
-
-- Raise the OA coverage rate of Swiss IRs
-- Content aggregation: from Swiss IRs and international subject repositories
-- Content dissemination: to Swiss IRs and the Web
-- Monitoring of citations (publications, datasets...)
-
-### Institutional Repository as a Service (IRaaS)
-
-- Dedicated (private) repository instances
-- Shared, multi-institutional repository (à la RERO DOC)
-
-### OA Monitoring
-
-- Gather information about research output in Switzerland, and OA in particular -->
-
-
-<!-- ## Partners -->
 
 <section>
 	<h2>Partners</h2>
