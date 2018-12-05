@@ -3260,6 +3260,20 @@
 	 vertical-align: top;
  }
  
- #contact-form {
+ #contact-form div {
 	 display: none;
+ }
+
+ #newsletter { /* check variable params.contact.content in config.toml */
+	 width: 340px;
+	 text-align: center;
+	 padding: 20px;
+	 background-color: #f6f6f6;
+	 border-radius: 0.35em;
+ }
+
+ #newsletter-conditions {
+	 padding-top: 1em;
+ 	 font-size: 0.8em;
+	 line-height: 1.4em;
  }
