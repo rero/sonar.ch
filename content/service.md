@@ -7,7 +7,7 @@ draft: false
 During its project phase, SONAR will be deploying different kinds of services, namely:
 
 1. Institutional Repository as a Service (IRaaS)
-2. Content tracking: recovering Swiss publications from external sources and feeding the back to existing Swiss IRs
+2. Content tracking: recovering Swiss publications from external sources and feeding them back to existing Swiss IRs
 3. Open Access monitoring
 
 The former is a kind of service that has been provided by <a href="https://www.rero.ch/">RERO</a> for several years with the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>. As for the 2nd and 3rd types, they have a more prospective character, and their precise form will be defined in the course of the project.
