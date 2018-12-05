@@ -3265,7 +3265,6 @@
  }
 
  #newsletter { /* check variable params.contact.content in config.toml */
-	 width: 340px;
 	 text-align: center;
 	 padding: 20px;
 	 background-color: #f6f6f6;
