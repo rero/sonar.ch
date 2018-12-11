@@ -10,7 +10,7 @@ During its project phase, SONAR will be deploying different kinds of services, n
 2. Content tracking: recovering Swiss publications from external sources and feeding them back to existing Swiss IRs
 3. Open Access monitoring
 
-The former is a kind of service that has been provided by <a href="https://www.rero.ch/">RERO</a> for several years with the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>. As for the 2nd and 3rd types, they have a more prospective character, and their precise form will be defined in the course of the project.
+The former is a kind of service that has been provided by <a href="https://www.rero.ch/">RERO</a> for several years with the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>. As for the 2nd and 3rd types, they have a more prospective character, and their precise form will be defined throughout the course of the project.
 
 ## Institutional Repository as a Service (IRaaS)
 
@@ -20,7 +20,7 @@ Besides collecting publications and metadata from external sources, SONAR also s
 - As **dedicated independent portals**, each with their own distinct identity and policies.
 
 
-Swiss institutions of higher education interested in an institutional repository solution in the framework of SONAR have two possibilities:
+Swiss Higher Education Institutions interested in an institutional repository solution in the framework of SONAR have two possibilities:
 
 1. Wait for the first IRaaS deployment scheduled for mid-2019 (the multi-institutional form).
 2. In case of urgency, it is possible to temporarily subscribe to the <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a> service provided by <a href="https://www.rero.ch/">RERO</a>. The migration to SONAR will then be taken care of by the SONAR team.

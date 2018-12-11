@@ -14,7 +14,7 @@ SONAR is a project carried out by a consortium of four institutions:
 - [USI](https://usi.ch/): Università della Svizzera italiana, Lugano
 
 
-The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018.
+The project is endorsed and supported by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It was submitted in February 2018 and accepted in June 2018.
 
 <a href="https://www.swissuniversities.ch"><img id="swissuniversities" src="/images/partners/swissuniversities_Logo_minimal_Rot_PANTONE.svg"></a>
 
@@ -28,7 +28,7 @@ An abridged version of the project application document is [available here](/doc
 				<h2>Goals</h2>
 				<h3>Science showcase</h3>
 				<ul>
-					<li>Collect, promote and preserve scholarly publications by authors affiliated with Swiss public research institutions</li>
+					<li>Collect, promote and preserve scholarly publications of authors affiliated with Swiss public research institutions</li>
 				</ul>
 				<h3>Open Access growth and monitoring</h3>
 				<ul>
