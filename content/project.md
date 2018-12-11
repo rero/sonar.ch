@@ -8,10 +8,10 @@ draft: false
 
 SONAR is a project carried out by a consortium of four institutions:
 
-- <a href="https://www.rero.ch/">RERO</a>: Library Network of Western Switzerland (applicant institution)
-- <a href="https://www.hes-so.ch/">HES-SO</a>: Haute école spécialisée de Suisse occidentale
-- <a href="https://www.htwchur.ch/">HTW Chur</a>: Hochschule für Technik und Wirtschaft
-- <a href="https://usi.ch/">USI</a>: Università della Svizzera italiana
+- [RERO](https://www.rero.ch/): Library Network of Western Switzerland, Martigny (applicant institution)
+- [HES-SO](https://www.hes-so.ch/): Haute école spécialisée de Suisse occidentale / [HEG&nbsp;Genève](https://www.hesge.ch/heg/): Haute école de gestion de Genève
+- [HTW Chur](https://www.htwchur.ch/): Hochschule für Technik und Wirtschaft / [SII](https://www.htwchur.ch/en/htw-chur/applied-future-technologies/swiss-institute-for-information-science-sii/): Schweizerisches Institut für Informationswissenschaft, Chur
+- [USI](https://usi.ch/): Università della Svizzera italiana, Lugano
 
 
 The project is co-funded by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It has been submitted in February 2018 and accepted in June 2018.
@@ -63,7 +63,7 @@ An abridged version of the project application document is [available here](/doc
 	<div class="project-partners">
 		<a href="https://www.rero.ch/"><img src="/images/partners/logo_rero.svg"></a>
 		<a href="https://www.hes-so.ch/"><img src="/images/partners/logo-hes-so-couleur-quadri-1133.svg"></a>
-		<a href="https://www.htwchur.ch/"><img src="/images/partners/HTW_Chur_Logo.svg"></a>
+		<a href="https://www.htwchur.ch/en/htw-chur/applied-future-technologies/swiss-institute-for-information-science-sii/"><img src="/images/partners/HTW_Chur_Logo.svg"></a>
 		<a href="https://usi.ch/"><img src="/images/partners/press-logo-statico-usi-orizzontale-web.svg"></a>
 	</div>
 </section>
