@@ -57,7 +57,7 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				</ul>
 				<h3>Mid-2019</h3>
 				<ul>
-					<li>The first version of SONAR, namely its IRaaS component, will be operational in the course of 2019, taking over and improving the current service already provided by <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a>, with a renewed and improved version of the service that it currently provides.</li>
+					<li>The first version of SONAR, namely its IRaaS component, will be operational in the course of 2019, taking over and improving the current service already provided by the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>.</li>
 				</ul>
 				<h3>2020</h3>
 				<ul>
