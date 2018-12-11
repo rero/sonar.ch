@@ -2504,7 +2504,8 @@
 			font-weight: 300;
 			display: block; /* required for a small line height */
 			line-height: 1.5em;
-			margin-left: 0.5em;
+			/*margin-left: 0.5em;*/ /*SONAR*/
+			margin: 0.5em 0 1.5em 0; /*SONAR*/
 		}
 
 		#header .image.avatar {
@@ -2903,7 +2904,7 @@
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 980px), screen and (max-height: 750px) { /* SONAR: max-height for shallow screens */
 
 		/* Basic */
 
@@ -2942,6 +2943,10 @@
 					#header h1 em {
 						display: none;
 					}
+
+				.image.avatar img {
+					margin: 0; /*SONAR*/
+				}
 
 		/* Footer */
 
@@ -2987,6 +2992,7 @@
 			}
 
 	}
+
 
 /* Small */
 
@@ -3160,7 +3166,7 @@
 	}
 
 	#sidebar {
-		margin-top: 1.5em;
+		margin-top: 0.5em; /*1.5em; SONAR*/
 	}
 
 	#sidebar ul li {
