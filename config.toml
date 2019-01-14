@@ -6,7 +6,8 @@ theme = "hugo-strata-theme"
 
 sectionPagesMenu = "main"
 
-
+## RSS
+rssLimit = 20
 
 ### config for theme HUGO-STRATA-THEME
 
