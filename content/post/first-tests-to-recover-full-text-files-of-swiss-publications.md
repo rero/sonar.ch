@@ -1,7 +1,7 @@
 ---
 title: "First tests to recover full-text files of Swiss publications"
 date: 2019-04-09T11:33:58+02:00
-draft: true
+draft: false
 tags: ["HEG Genève", "Full-text recovering"]
 ---
 
