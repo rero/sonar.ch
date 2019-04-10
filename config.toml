@@ -2,6 +2,8 @@ baseURL = "/"
 languageCode = "en-us"
 title = "SONAR"
 
+googleAnalytics = "UA-1831395-15"
+
 theme = "hugo-strata-theme"
 
 sectionPagesMenu = "main"
