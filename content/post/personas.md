@@ -1,6 +1,6 @@
 ---
 title: "Who is the typical user of SONAR?"
-date: 2019-05-05T11:33:58+02:00
+date: 2019-05-27T17:41:58+02:00
 draft: false
 tags: ["personas", "user interface", "user-centered design"]
 ---
