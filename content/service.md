@@ -43,7 +43,7 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				</ul>
 				<h3>Monitoring</h3>
 				<ul>
-					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/">Swiss national Open Access strategy</a> and its action plan [2020]</li>
+					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access">Swiss national Open Access strategy</a> and its action plan [2020]</li>
 				</ul>
 			</div>
 		</article>
