@@ -1,10 +1,11 @@
-+++
-author = "Karsten Schuldt (FH Graubünden)"
-date = 2020-03-25T10:00:00Z
-tags = ["openapc", "apc", "open access", "analytics"]
-title = "On the problems of APC cost analysis"
+---
+title: "On the problems of APC cost analysis"
+date: 2020-03-25T12:00:00+01:00
+author: "Karsten Schuldt (FH Graubünden)"
+draft: false
+tags: ["openapc", "apc", "open access", "analytics"]
+---
 
-+++
 ### What are we dealing with, when we talk about “costs of OA”?
 
 It has become commonly accepted in the scientific community that Open Access comes with costs attached. Sustainable infrastructures, editorial work and other costs have to be financed somehow. But, as the concept of “Article Processing Charges” (APC) which have to be paid for the publication of OA-articles has taken root, it has also become commonplace to focus singularly on those costs when talking about the “costs of OA”.
