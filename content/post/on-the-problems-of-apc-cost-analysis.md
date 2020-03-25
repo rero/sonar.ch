@@ -1,7 +1,6 @@
 +++
 author = "Karsten Schuldt (FH Graubünden)"
 date = 2020-03-25T10:00:00Z
-draft = true
 tags = ["openapc", "apc", "open access", "analytics"]
 title = "On the problems of APC cost analysis"
 
