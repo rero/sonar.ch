@@ -10,6 +10,8 @@ title = "On the problems of APC cost analysis"
 
 It has become commonly accepted in the scientific community that Open Access comes with costs attached. Sustainable infrastructures, editorial work and other costs have to be financed somehow. But, as the concept of “Article Processing Charges” (APC) which have to be paid for the publication of OA-articles has taken root, it has also become commonplace to focus singularly on those costs when talking about the “costs of OA”. It is clear that this focus excludes other costs (e.g. for Open Journal System (OJS) instances run by libraries, OA offices), which should be kept in mind if somebody wants to determine the whole cost for OA. But in this post, we will focus on APCs.
 
+<!--more-->
+
 ### Data points for APCs
 
 If one wishes to integrate the costs of APCs into the analysis of OA, one needs to have data of the actual APCs paid. This data is not openly available. (Otherwise, it would be solely a technical problem – one that has already been resolved; see below.)
