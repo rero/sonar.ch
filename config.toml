@@ -2,11 +2,23 @@ baseURL = "/"
 languageCode = "en-us"
 title = "SONAR"
 
+googleAnalytics = "UA-1831395-15"
+
 theme = "hugo-strata-theme"
 
 sectionPagesMenu = "main"
 
+## RSS
+rssLimit = 20
 
+### The new default Markdown rendering engine since Hugo v0.62.2 is Goldmark
+### By default, it does not render raw HTML; need to set unsafe = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 ### config for theme HUGO-STRATA-THEME
 
@@ -38,7 +50,7 @@ sectionPagesMenu = "main"
 		facebook = ""
 
 		copyright = [
-			"&copy; 2018 RERO",
+			"&copy; 2018-2019 RERO",
 			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
@@ -68,7 +80,7 @@ It will act as an **aggregator**, by bringing together the content and metadata 
 
 Besides the automated harvesting service, interested Swiss Higher Education Institutions will be able to subscribe to an outsourced institutional repository service, allowing their authors to directly deposit publications in SONAR.
 
-SONAR will contribute to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
+SONAR will contribute to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
 """
 
 	[params.portfolio]
@@ -85,7 +97,7 @@ SONAR will contribute to the [Swiss national Open Access strategy](https://www.s
 You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)
 <div id="newsletter">
 <iframe src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/1" scrolling="auto" allowfullscreen="" style="display: block;margin-left: auto;margin-right: auto;width: 100%;" width="600" height="200" frameborder="0"></iframe>
-<div id="newsletter-conditions">Your e-mail address is only used to send you our newsletter and information about the activities of SONAR. You can always use the unsubscribe link included at the bottom of each e-mail message you receive from SONAR. This newsletter is managed by the service provider https://www.sendinblue.com/gdpr/, with activity tracking mode disabled.</div>
+<div id="newsletter-conditions">Your e-mail address is only used to send you our newsletter and information about the activities of SONAR. You can always use the unsubscribe link included at the bottom of each e-mail message you receive from SONAR. This newsletter is managed using the service https://www.sendinblue.com/gdpr/, with activity tracking mode disabled.</div>
 </div>
 """
 		email = "info.sonar@rero.ch"

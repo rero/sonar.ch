@@ -22,7 +22,7 @@ Besides collecting publications and metadata from external sources, SONAR also s
 
 Swiss Higher Education Institutions interested in an institutional repository solution in the framework of SONAR have two possibilities:
 
-1. Wait for the first IRaaS deployment scheduled for mid-2019 (the multi-institutional form).
+1. Wait for the first IRaaS deployment, available in the first months of 2020 (the multi-institutional form).
 2. In case of urgency, it is possible to temporarily subscribe to the <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a> service provided by <a href="https://www.rero.ch/">RERO</a>. The migration to SONAR will then be taken care of by the SONAR team.
 
 <section id="two">
@@ -34,16 +34,16 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				<h3>IRaaS &ndash; Institutional Repository as a Service</h3>
 				Provided in two distinct forms:
 				<ul>
-					<li>As a shared, multi-institutional portal [mid-2019]</li>
-					<li>As dedicated, individually customized portals [2020]</li>
+					<li>As a shared, multi-institutional portal [Q1 2020]</li>
+					<li>As dedicated, individually customized portals [later in 2020]</li>
 				</ul>
 				<h3>Content tracking</h3>
 				<ul>
-					<li>Recovering Swiss publications from external sources and feeding them back to existing Swiss IRs [2020]</li>
+					<li>Recovering Swiss publications from external sources and feeding them back to existing Swiss IRs [late 2020]</li>
 				</ul>
 				<h3>Monitoring</h3>
 				<ul>
-					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/politique-des-hautes-ecoles/open-access/">Swiss national Open Access strategy</a> and its action plan [2020]</li>
+					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access">Swiss national Open Access strategy</a> and its action plan [2020]</li>
 				</ul>
 			</div>
 		</article>
@@ -55,11 +55,11 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				<ul>
 					<li>Project Phase: During this period, SONAR takes the form of a <a href="/project/">project</a>. In the meantime, it will progressively  give rise to full-fledged durable services.</li>
 				</ul>
-				<h3>Mid-2019</h3>
+				<h3>Q1 2020</h3>
 				<ul>
-					<li>The first version of SONAR, namely its IRaaS component, will be operational in the course of 2019, taking over and improving the current service already provided by the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>.</li>
+					<li>The first version of SONAR, namely its IRaaS component, will be operational in 2020, taking over and improving the current service already provided by the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>.</li>
 				</ul>
-				<h3>2020</h3>
+				<h3>Late 2020</h3>
 				<ul>
 					<li>Prospective services (content tracking, monitoring) will be progressively deployed.</li>
 				</ul>

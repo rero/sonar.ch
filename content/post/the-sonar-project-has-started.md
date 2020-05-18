@@ -7,7 +7,7 @@ tags: []
 
 <img class="post-icon" src="/images/noun_Power_94_000000_modif.svg">
 
-SONAR has just been launched and will be running until October 2020. Some work has already begun, but the four partners (RERO, HES-SO, HTW Chur, USI) will be meeting in December for the official project kick-off.
+SONAR has just been launched and will be running until October 2020. Some work has already begun, but the four partners (RERO, HES-SO, FH&nbsp;Graubünden [formerly HTW&nbsp;Chur], USI) will be meeting in December for the official project kick-off.
 
 The purpose of this website is to present the project and give updates on its progress. To keep focus on the important work to come and not get distracted by management tasks, English was chosen as common communication language during the project phase.
 
