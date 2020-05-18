@@ -11,6 +11,15 @@ sectionPagesMenu = "main"
 ## RSS
 rssLimit = 20
 
+### The new default Markdown rendering engine since Hugo v0.62.2 is Goldmark
+### By default, it does not render raw HTML; need to set unsafe = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ### config for theme HUGO-STRATA-THEME
 
 [params]
