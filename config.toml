@@ -78,9 +78,9 @@ SONAR is an archive of scholarly publications. It intends to collect, promote an
 
 It acts as an **aggregator**, bringing together the content and metadata of existing platforms and servers, including the institutional repositories (IR) of Swiss Higher Education Institutions, as well as international subject repositories. It also operates as a content **disseminator**: both to Swiss IRs and to the Web at large, namely to search engines of scholarly literature such as Google Scholar and Microsoft Academic.
 
-Besides the automated harvesting service, interested Swiss Higher Education Institutions can subscribe to an outsourced institutional repository service, allowing their authors to directly deposit publications in SONAR.
+Besides the automated harvesting service, interested Swiss Higher Education Institutions can subscribe to an[ outsourced institutional repository service](/iraas/), allowing their authors to directly deposit publications in SONAR.
 
-SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
+SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
 """
 
 	[params.portfolio]

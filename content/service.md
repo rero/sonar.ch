@@ -30,7 +30,7 @@ Types 2 and 3 have a prospective character, their precise form will be defined i
 				</ul>
 				<h3>Monitoring</h3>
 				<ul>
-					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access">Swiss national Open Access strategy</a> and its action plan [to be planned]</li>
+					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction">Swiss national Open Access strategy</a> and its action plan [to be planned]</li>
 				</ul>
 			</div>
 		</article>
