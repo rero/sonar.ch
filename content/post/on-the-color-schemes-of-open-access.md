@@ -1,6 +1,6 @@
 ---
 title: "On the color schemes of Open Access"
-date: 2020-05-19T08:00:00+02:00
+date: 2020-05-27T08:00:00+02:00
 author: "Karsten Schuldt (FH Graubünden)"
 draft: false
 tags: ["open access", " analytics"]
