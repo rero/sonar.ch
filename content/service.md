@@ -1,6 +1,6 @@
 ---
-title: "The Service"
-date: 2018-11-27T10:40:53+01:00
+title: "The Services"
+date: 2020-05-27T07:00:00+01:00
 draft: false
 ---
 
@@ -18,7 +18,6 @@ Besides collecting publications and metadata from external sources, SONAR also s
 
 - As a **shared, multi-institutional portal**, with a single common search and navigation interface, as well as common self-archiving policies and metadata schemes. The contents of each institution are distinguished by means of collections, navigation paths in the search interface (facets) as well as some visual customization at the document level.
 - As **dedicated independent portals**, each with their own distinct identity and policies.
-
 
 Swiss Higher Education Institutions interested in an institutional repository solution in the framework of SONAR have two possibilities:
 
