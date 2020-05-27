@@ -107,14 +107,19 @@ You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto
 [[menu.main]]
 	name = "Home"
 	url  = "/"
-	weight = 10
+	weight = 1
 
 [[menu.main]]
  	name = "The Project"
  	url  = "project/"
- 	weight = 0
+ 	weight = 10
 
 [[menu.main]]
  	name = "The Services"
  	url  = "/service/"
- 	weight = 0
+ 	weight = 20
+
+[[menu.main]]
+ 	name = "IR Hosting"
+ 	url  = "/iraas/"
+ 	weight = 30

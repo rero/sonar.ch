@@ -6,23 +6,11 @@ draft: false
 
 During its project phase, SONAR will be deploying different kinds of services, namely:
 
-1. Institutional Repository as a Service (IRaaS)
+1. [Institutional Repository as a Service (IRaaS)](/iraas/)
 2. Content tracking: recovering Swiss publications from external sources and feeding them back to existing Swiss IRs
 3. Open Access monitoring
 
-The former is a kind of service that has been provided by <a href="https://www.rero.ch/">RERO</a> for several years with the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>. As for the 2nd and 3rd types, they have a more prospective character, and their precise form will be defined throughout the course of the project.
-
-## Institutional Repository as a Service (IRaaS)
-
-Besides collecting publications and metadata from external sources, SONAR also serves as a deposit for directly hosting publications from interested academic institutions. This kind of service will be provided in two distinct forms:
-
-- As a **shared, multi-institutional portal**, with a single common search and navigation interface, as well as common self-archiving policies and metadata schemes. The contents of each institution are distinguished by means of collections, navigation paths in the search interface (facets) as well as some visual customization at the document level.
-- As **dedicated independent portals**, each with their own distinct identity and policies.
-
-Swiss Higher Education Institutions interested in an institutional repository solution in the framework of SONAR have two possibilities:
-
-1. Wait for the first IRaaS deployment, available in the first months of 2020 (the multi-institutional form).
-2. In case of urgency, it is possible to temporarily subscribe to the <a href="https://doc.rero.ch/">RERO&nbsp;DOC</a> service provided by <a href="https://www.rero.ch/">RERO</a>. The migration to SONAR will then be taken care of by the SONAR team.
+Types 2 and 3 have a prospective character, their precise form will be defined in the course of the project.
 
 <section id="two">
 	<div class="row">
@@ -33,8 +21,8 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				<h3>IRaaS &ndash; Institutional Repository as a Service</h3>
 				Provided in two distinct forms:
 				<ul>
-					<li>As a shared, multi-institutional portal [Q1 2020]</li>
-					<li>As dedicated, individually customized portals [later in 2020]</li>
+					<li>As a shared, multi-institutional portal [Q2 2020]</li>
+					<li>As dedicated, individually customized portals [late 2020]</li>
 				</ul>
 				<h3>Content tracking</h3>
 				<ul>
@@ -42,7 +30,7 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				</ul>
 				<h3>Monitoring</h3>
 				<ul>
-					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access">Swiss national Open Access strategy</a> and its action plan [2020]</li>
+					<li>Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access">Swiss national Open Access strategy</a> and its action plan [to be planned]</li>
 				</ul>
 			</div>
 		</article>
@@ -54,7 +42,7 @@ Swiss Higher Education Institutions interested in an institutional repository so
 				<ul>
 					<li>Project Phase: During this period, SONAR takes the form of a <a href="/project/">project</a>. In the meantime, it will progressively  give rise to full-fledged durable services.</li>
 				</ul>
-				<h3>Q1 2020</h3>
+				<h3>Q2/Q3 2020</h3>
 				<ul>
 					<li>The first version of SONAR, namely its IRaaS component, will be operational in 2020, taking over and improving the current service already provided by the <a href="https://doc.rero.ch/">Digital Library RERO&nbsp;DOC</a>.</li>
 				</ul>
