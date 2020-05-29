@@ -1,5 +1,5 @@
 ---
-title: "The Services"
+title: "The services"
 date: 2020-05-27T07:00:00+01:00
 draft: false
 ---
@@ -17,11 +17,11 @@ Types 2 and 3 have a prospective character, their precise form will be defined i
 		<article class="6u 12u$(xsmall) work-item">
 			<div class=" project-info">
 				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
-				<h2>Service Summary</h2>
-				<h3>IRaaS &ndash; Institutional Repository as a Service</h3>
+				<h2>Service summary</h2>
+				<h3>IRaaS &ndash; <a href="/iraas/">Institutional Repository as a Service</a></h3>
 				Provided in two distinct forms:
 				<ul>
-					<li>As a shared, multi-institutional portal [Q2 2020]</li>
+					<li>As a shared, multi-institutional portal [Q3 2020]</li>
 					<li>As dedicated, individually customized portals [late 2020]</li>
 				</ul>
 				<h3>Content tracking</h3>
@@ -56,7 +56,7 @@ Types 2 and 3 have a prospective character, their precise form will be defined i
 </section>
 
 
-## Service Overview – Components, Entities and Flows
+## Service overview – components, entities and flows
 
 <a href="/documents/sonar-schema_20181022.svg" class="image fit thumb"><img src="/documents/sonar-schema_20181022.svg" alt="" /></a>
 

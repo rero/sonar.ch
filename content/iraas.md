@@ -29,7 +29,7 @@ This service is provided in two distinct forms:
 - and others
 
 
-## Shared Repository Features
+## Shared repository features
 
 - Documents are searchable and accessible in the SONAR global portal https://sonar.ch [upcoming]
 - The documents of each client institution are grouped within a dedicated collection, with the following features:
@@ -44,7 +44,7 @@ This service is provided in two distinct forms:
 - Basic support is provided
 
 
-## Dedicated Repository Features
+## Dedicated repository features
 
 - The documents are searchable and accessible in an independent portal behind a custom URL `https://[institution domain]`. Open access documents are visible in the SONAR global portal as well https://sonar.ch [upcoming]
 - The portal has custom branding (logo, styles)

@@ -1,5 +1,5 @@
 ---
-title: "The Project"
+title: "The project"
 date: 2018-11-27T10:40:53+01:00
 draft: false
 ---

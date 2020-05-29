@@ -64,13 +64,13 @@ SONAR is an archive of scholarly publications. It intends to collect, promote an
 <div class="homepage-promotion">
 <a href="/project/">
 <div class="homepage-promotion-link">
-<h3>The Project</h3>
+<h3>The project</h3>
 <img src="/images/noun_Blueprint_1050_000000_modif.svg">
 </div>
 </a>
 <a href="/service/">
 <div class="homepage-promotion-link">
-<h3>The Services</h3>
+<h3>The services</h3>
 <img src="/images/noun_international_1670627_modif.svg">
 </div>
 </a>
@@ -110,16 +110,16 @@ You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto
 	weight = 1
 
 [[menu.main]]
- 	name = "The Project"
+ 	name = "The project"
  	url  = "project/"
  	weight = 10
 
 [[menu.main]]
- 	name = "The Services"
+ 	name = "The services"
  	url  = "/service/"
  	weight = 20
 
 [[menu.main]]
- 	name = "IR Hosting"
+ 	name = "IR hosting"
  	url  = "/iraas/"
  	weight = 30
