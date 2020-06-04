@@ -50,7 +50,7 @@ rssLimit = 20
 		facebook = ""
 
 		copyright = [
-			"&copy; 2018-2019 RERO",
+			"&copy; 2018-2020 RERO",
 			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
@@ -59,28 +59,28 @@ rssLimit = 20
 		hide  = false
 		title = "Swiss Open Access Repository"
 		content = """
-SONAR is a future archive of scholarly publications. It intends to collect, promote and preserve the publications of authors affiliated with Swiss public research institutions.
+SONAR is an archive of scholarly publications. It intends to collect, promote and preserve the publications of authors affiliated with Swiss public research institutions.
 
 <div class="homepage-promotion">
 <a href="/project/">
 <div class="homepage-promotion-link">
-<h3>The Project</h3>
+<h3>The project</h3>
 <img src="/images/noun_Blueprint_1050_000000_modif.svg">
 </div>
 </a>
 <a href="/service/">
 <div class="homepage-promotion-link">
-<h3>The Service</h3>
+<h3>The services</h3>
 <img src="/images/noun_international_1670627_modif.svg">
 </div>
 </a>
 </div>
 
-It will act as an **aggregator**, by bringing together the content and metadata of existing platforms and servers, including the institutional repositories (IR) of Swiss Higher Education Institutions, as well as international subject repositories. It will also operate as a content **disseminator**: both to Swiss IRs and to the Web at large, namely to search engines of scholarly literature such as Google Scholar and Microsoft Academic.
+It acts as an **aggregator**, bringing together the content and metadata of existing platforms and servers, including the institutional repositories (IR) of Swiss Higher Education Institutions, as well as international subject repositories. It also operates as a content **disseminator**: both to Swiss IRs and to the Web at large, namely to search engines of scholarly literature such as Google Scholar and Microsoft Academic.
 
-Besides the automated harvesting service, interested Swiss Higher Education Institutions will be able to subscribe to an outsourced institutional repository service, allowing their authors to directly deposit publications in SONAR.
+Besides the automated harvesting service, interested Swiss Higher Education Institutions can subscribe to an[ outsourced institutional repository service](/iraas/), allowing their authors to directly deposit publications in SONAR.
 
-SONAR will contribute to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access/translate-to-franzoesisch-nationale-strategie-open-access) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
+SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
 """
 
 	[params.portfolio]
@@ -107,14 +107,19 @@ You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto
 [[menu.main]]
 	name = "Home"
 	url  = "/"
-	weight = 10
+	weight = 1
 
 [[menu.main]]
- 	name = "The Project"
+ 	name = "The project"
  	url  = "project/"
- 	weight = 0
+ 	weight = 10
 
 [[menu.main]]
- 	name = "The Service"
+ 	name = "The services"
  	url  = "/service/"
- 	weight = 0
+ 	weight = 20
+
+[[menu.main]]
+ 	name = "IR hosting"
+ 	url  = "/iraas/"
+ 	weight = 30
