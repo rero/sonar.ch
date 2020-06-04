@@ -50,7 +50,7 @@ rssLimit = 20
 		facebook = ""
 
 		copyright = [
-			"&copy; 2018-2019 RERO",
+			"&copy; 2018-2020 RERO",
 			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
