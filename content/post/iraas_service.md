@@ -1,6 +1,6 @@
 ---
 title: "Institutional Repository as a Service, by RERO: variants and scope"
-date: 2020-06-04T08:00:00+02:00
+date: 2020-07-03T08:00:00+02:00
 draft: false
 tags: ["iraas", "repository", "shared portal", "dedicated portal"]
 ---
