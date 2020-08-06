@@ -104,10 +104,6 @@ You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto
 
 
 # Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 1
 
 [[menu.main]]
  	name = "The project"
@@ -123,3 +119,8 @@ You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto
  	name = "IR hosting"
  	url  = "/iraas/"
  	weight = 30
+
+[[menu.main]]
+ 	name = "FAQ"
+ 	url  = "/faq/"
+ 	weight = 40
