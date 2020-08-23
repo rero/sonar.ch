@@ -8,10 +8,12 @@ The SONAR team at RERO can host your institutional repository platform, using [I
 
 Please contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch) for pricing details or other information. 
 
+## Two forms {#shared_vs_dedicated}
+
 This service is provided in two distinct forms:
 
-- As a **shared, multi-institutional portal**, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet). [currently in tests, opening planned for **July 2020**]
-- As a **dedicated independent portal**, with its own distinct identity and policies, and other extended features. [planned for **late 2020**]
+- **Shared repository**: a multi-institutional portal, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet). [currently in tests, opening planned for **September 2020**]
+- **Dedicated repositories** are independent portals, each with its own distinct identity and policies, and other extended features. [planned for **late 2020**]
 
 
 ## Features common to both forms:
@@ -44,7 +46,7 @@ This service is provided in two distinct forms:
 - Basic support is provided
 
 
-## Dedicated repository features
+## Dedicated repositories features
 
 - The documents are searchable and accessible in an independent portal behind a custom URL `https://[institution domain]`. Open access documents are visible in the SONAR global portal as well https://sonar.ch [upcoming]
 - The portal has custom branding (logo, styles)
