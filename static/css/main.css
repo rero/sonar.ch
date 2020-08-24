@@ -1608,7 +1608,7 @@
 		color: #205078; /*787878; SONAR*/
 		font-weight: 700; /*400; SONAR*/
 		line-height: 1em;
-		margin-bottom: 0.6em;
+		margin-bottom: 0.6em; /*SONAR*/
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {

@@ -1,10 +1,10 @@
 ---
 title: "FAQ"
-date: 2020-07-28
+date: 2020-08-24
 draft: false
 ---
 
-### Categories
+### Categories {#categories}
 
 * [Document upload: workflow and conditions](#upload)
 * [Search and explore data](#search)
@@ -16,8 +16,6 @@ __________
 
 
 ## Document upload: workflow and conditions {#upload}
-
-[🔝 Back to top](#top)
 
 #### It is possible to enter already existing DOIs?
 
@@ -48,6 +46,7 @@ No. Currently, SONAR is a *deposit* facility; it retains no rights, apart from t
 #### Which document types are accepted? Are datasets accepted?
 
 Yes, datasets are accepted in two ways.
+
 - For each record, a main file can be added, as well as additional files (annexes, figures, datasets).
 - Datasets can also be deposited as independent objects with their own metadata record.
 
@@ -57,9 +56,9 @@ The exhaustive list of document types is available in the [SONAR documentation](
 
 It depends. In the [Shared repository](/iraas/#shared_vs_dedicated), only records containing an OA file are accepted. But in the [Dedicated repositories](/iraas/#shared_vs_dedicated), metadata-only records are admitted. It is up to the owning institution to define its deposit policies. More details about the conditions on the [IR hosting](/iraas/) page.
 
-#### (!) Which file formats are accepted?
+#### Which file formats are accepted?
 
-To be completed
+All formats are accepted. Each institution defines its own acceptance policies.
 
 #### What is the maximum file size accepted?
 
@@ -80,7 +79,7 @@ No. The data quality is always the responsibility of the depositing institution,
 
 ## Search and explore data {#search}
 
-[🔝 Back to top](#top)
+[🔝 Back to top](#categories)
 
 #### Are the full-text contents indexed, or only metadata?
 
@@ -105,7 +104,7 @@ For now, SONAR does not have sorting options, but it is on the roadmap: we inten
 
 #### In a [Dedicated repository](/iraas/#shared_vs_dedicated), are the search results coming from the global SONAR or only from that specific repo?
 
-A [Dedicated repository](/iraas/#shared_vs_dedicated) is isolated and self-contained, hence search results are limited to its own contents.
+A [Dedicated repository](/iraas/#shared_vs_dedicated) is self-contained and has a specific independent search interface. Its content might also be displayed in the SONAR global interface.
 
 The [Shared repository](/iraas/#shared_vs_dedicated) is searchable via the SONAR global interface and includes a landing page for each institution, with its logo and description.
 
@@ -131,7 +130,7 @@ The displayed information can be seen on [sonar.test.rero.ch](https://sonar.test
 
 ## Data export and harvesting {#export}
 
-[🔝 Back to top](#top)
+[🔝 Back to top](#categories)
 
 #### Are the contents of SONAR searchable by search engines like Google Scholar?
 
@@ -145,14 +144,14 @@ In the [Shared repository](/iraas/#shared_vs_dedicated), an [OAI-PMH *set*](http
 
 In [Dedicated repositories](/iraas/#shared_vs_dedicated), custom [OAI-PMH *sets*](http://www.openarchives.org/OAI/openarchivesprotocol.html#SelectiveHarvesting) can be defined in order to allow selective harvesting of parts of the institution's documents (e.g. per document type, per custom collection).
 
-#### (!) Which metadata export formats are available?
+#### Which metadata export formats are available?
 
 Metadata export is possible in Dublin Core via OAI-PMH. Other export formats (RIS, BibTeX, MARC21/XML) can be added later according to client's needs.
 
 
 ## User roles and permissions {#permissions}
 
-[🔝 Back to top](#top)
+[🔝 Back to top](#categories)
 
 #### What types of user groups and permissions exist in SONAR?
 
@@ -165,7 +164,7 @@ Only persons with an "admin" role are allowed to delete documents. More details 
 
 ## General questions {#general}
 
-[🔝 Back to top](#top)
+[🔝 Back to top](#categories)
 
 
 #### Is documentation available?
