@@ -9,7 +9,7 @@ One of the goals of the [SONAR project](https://sonar.ch/) is to set up a hostin
 
 <!--more-->
 
-In order to respond to the interest it generates in our community, the SONAR team invites all interested institutions to test this service. Just send a short message to [info.sonar@rero.ch](mailto:info.sonar@rero.ch) with the name of the institution and the name and email address of the person in charge (who will receive the [Admin role](https://sonar.test.rero.ch/help/user_roles/)).
+In order to respond to the interest that it has been attracting in our community, the SONAR team is inviting all interested institutions to test this service. Just send a short message to [info.sonar@rero.ch](mailto:info.sonar@rero.ch) with the **name of the institution** and the **name and email address of the person in charge** (who will be assigned the [Admin role](https://sonar.test.rero.ch/help/user_roles/)).
 
 
 <img class="image fit" src="/images/invitation-to-test.png" alt="SONAR public test portal" title="SONAR public test portal" >
