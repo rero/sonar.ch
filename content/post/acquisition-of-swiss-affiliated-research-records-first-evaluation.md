@@ -1,13 +1,20 @@
 ---
 title: "Acquisition of Swiss-affiliated research records: first evaluation from the field"
-date: 2020-10-13T12:00:00+02:00
+date: 2020-11-12T12:00:00+02:00
 draft: false
 tags: ["HEG Genève", "content tracking", "full-text recovering", "open access"]
 ---
 
-One of the tasks of the SONAR project is to assess the feasibility of a pipeline for automatically retrieving publications of researchers affiliated to Swiss publicly funded institutions, from third-party international databases. Almost 500,000 candidate bibliographic records were collected from CrossRef, MEDLINE, and PubMed Central, for building the first version of the SONAR dataset. We then requested, in May 2020, the cooperation of Swiss Institutional Repository (IR) managers, in order to perform a comparative analysis between the SONAR dataset and their own records, and to provide qualitative feedback.
+One of the tasks of the SONAR project is to assess the feasibility of a pipeline for automatically retrieving publications of researchers affiliated to Swiss publicly funded institutions, from third-party international databases. Almost 500,000 candidate bibliographic records were collected from CrossRef, MEDLINE, and PubMed Central, for building the first version of the SONAR dataset.
+
+See current result on <a href="http://candy.hesge.ch/SONAR/">candy.hesge.ch/SONAR/</a>.
+
 
 <!--more-->
+
+### Comparative analysis
+
+We then requested, in May 2020, the cooperation of Swiss Institutional Repository (IR) managers, in order to perform a comparative analysis between the SONAR dataset and their own records, and to provide qualitative feedback.
 
 The questions asked were the following:
 

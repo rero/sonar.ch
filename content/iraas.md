@@ -1,6 +1,6 @@
 ---
 title: "Institutional Repository as a Service"
-date: 2020-05-26T11:07:00+01:00
+date: 2020-11-12T11:07:00+01:00
 draft: false
 ---
 
@@ -12,8 +12,8 @@ Please contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch) for pricing
 
 This service is provided in two distinct forms:
 
-- **Shared repository**: a multi-institutional portal, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet). [currently in tests, opening planned for **September 2020**]
-- **Dedicated repositories** are independent portals, each with its own distinct identity and policies, and other extended features. [planned for **late 2020**]
+- **Shared repository**: a multi-institutional portal, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet). [currently in tests, opening planned for **late 2020**]
+- **Dedicated repositories** are independent portals, each with its own distinct identity and policies, and other extended features. [planned for **Q1 2021**]
 
 
 ## Features common to both forms:
