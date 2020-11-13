@@ -1,6 +1,6 @@
 ---
 title: "Acquisition of Swiss-affiliated research records: first evaluation from the field"
-date: 2020-11-12T12:00:00+02:00
+date: 2020-10-08T12:00:00+02:00
 draft: false
 tags: ["HEG Genève", "content tracking", "full-text recovering", "open access"]
 ---
