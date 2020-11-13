@@ -4,7 +4,7 @@ date: 2020-11-12T07:00:00+01:00
 draft: false
 ---
 
-SONAR is developping the three following services. In case of interest, <a href="/#contact-form">get in touch</a>!
+SONAR is developping the three following services. In case of interest, get in touch with us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)!
 
 <section id="two">
 	<div class="row">
@@ -44,6 +44,6 @@ SONAR is developping the three following services. In case of interest, <a href=
 
 ## Service overview – components, entities and flows
 
-<a href="/documents/sonar-schema_20181022.svg" class="image fit thumb"><img src="/documents/sonar-schema_20181022.svg" alt="" /></a>
+<a href="/documents/sonar-schema_20201019.svg" class="image fit thumb"><img src="/documents/sonar-schema_20201019.svg" alt="" /></a>
 
 
