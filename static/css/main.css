@@ -3188,9 +3188,13 @@
  * 	CUSTOM CSS
  */
 
+ .recent-posts {
+	padding: 0;
+ }
+
  .recent-posts li {
-	 font-size: 20px;
-	 line-height: 36px;
+	line-height: 36px;
+	list-style: none;
  }
 
 
