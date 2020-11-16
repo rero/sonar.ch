@@ -7,7 +7,7 @@
         <br>
         <p>
         <ul class="recent-posts">
-        {{ range first 5 (where .Site.Pages "Type" "post") }}
+        {{ range first 5 (where .Site.RegularPages "Type" "post") }}
             <li>{{ .Date.Format .Site.Params.date_format }} &nbsp; <a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
         </ul>
