@@ -191,7 +191,7 @@ Yes, in principle. This is under analysis, as some publications won't be in SONA
 
 #### What is the price of the Institutional Repository as a Service?
 
-It is determined on the basis of two criteria: an nnual fee per document and an annual participation fee. The amount depends on the [type of service](/iraas/) (shared or dedicated). A fixed price for migration and set up must be included in the calculations. For pricing details, please contact us at info.sonar@rero.ch.
+It is determined on the basis of two criteria: an annual fee per document and an annual participation fee. The amount depends on the [type of service](/iraas/) (shared or dedicated). A fixed price for migration and set up must be included in the calculations. For pricing details, please contact us at info.sonar@rero.ch.
 
 #### Is documentation available?
 
