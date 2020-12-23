@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-date: 2020-08-24
+date: 2020-12-23
 draft: false
 ---
 
@@ -10,6 +10,7 @@ draft: false
 * [Search and explore data](#search)
 * [Data export and harvesting](#export)
 * [User roles and permissions](#permissions)
+* [Transition from RERO DOC](#rerodoc)
 * [General questions](#general)
 
 __________
@@ -162,10 +163,35 @@ There are four different roles – basic user, submitter, moderator, admin – w
 Only persons with an "admin" role are allowed to delete documents. More details in the [SONAR documentation](https://sonar.test.rero.ch/help/user_roles/).
 
 
+## Transition from RERO DOC {#rerodoc}
+
+[🔝 Back to top](#categories)
+
+#### How long does RERO DOC remain in service?
+
+RERO DOC remains online until at least June 2021.
+
+#### Will RERO DOC publications be automatically transferred to SONAR?
+
+No. As the price model changes, institutions must adhere to the new service. They will be contacted by RERO.
+
+#### When can institutions migrate from RERO DOC to SONAR?
+
+The migration process can take place from early January 2021.
+
+#### Will RERO DOC links be redirected to SONAR?
+
+Yes, in principle. This is under analysis, as some publications won't be in SONAR, and [some will be in RERO&nbsp;ILS](https://rero21.ch/en/rero-ils-en-production-en-2021/).
+
+
 ## General questions {#general}
 
 [🔝 Back to top](#categories)
 
+
+#### What is the price of the Institutional Repository as a Service?
+
+It is determined on the basis of two criteria: an annual fee per document and an annual participation fee. The amount depends on the [type of service](/iraas/) (shared or dedicated). A fixed price for migration and set up must be included in the calculations. For pricing details, please contact us at info.sonar@rero.ch.
 
 #### Is documentation available?
 
