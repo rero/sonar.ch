@@ -1568,8 +1568,8 @@
 	body, input, select, textarea {
 		color: #424242; /*#a2a2a2; SONAR*/
 		/*font-family: "Source Sans Pro", Helvetica, sans-serif;*/ /*SONAR*/
-		font-family: 'Roboto', Helvetica, sans-serif; /*SONAR*/
-		font-size: 16pt;
+		font-family: 'Roboto', sans-serif; /*SONAR*/
+		font-size: 1rem; /*16pt; SONAR*/
 		font-weight: 300; /*400; SONAR*/
 		line-height: 1.75em;
 	}
@@ -3229,6 +3229,7 @@
 	 padding: 1em;
 	 color: #f9faf9;
 	 margin: 0;
+         line-height: 1.5;
 	 /*width: calc(50% - 2em);*/
  }
 
@@ -3243,6 +3244,8 @@
 	 color: #f9faf9;
  }
  .project-info h3 {
+	 display: inline-block;
+	 vertical-align: middle;
 	 color: #f9faf9;
  }
  
