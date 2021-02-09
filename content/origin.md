@@ -1,31 +1,22 @@
 ---
-title: "The project"
-date: 2018-11-27T10:40:53+01:00
+title: "The origin of SONAR"
+date: 2021-02-09T09:00:00+01:00
 draft: false
 ---
 
-## Overview
-
-SONAR is a project carried out by a consortium of four institutions:
-
-- [RERO](https://www.rero.ch/): Library Network of Western Switzerland, Martigny (applicant institution)
-- [HES-SO](https://www.hes-so.ch/): Haute école spécialisée de Suisse occidentale / [HEG&nbsp;Genève](https://www.hesge.ch/heg/): Haute école de gestion de Genève
-- [FH Graubünden](https://www.fhgr.ch/): Fachhochschule Graubünden / [SII](https://www.fhgr.ch/en/fhgr/applied-future-technologies/swiss-institute-for-information-science-sii/): Schweizerisches Institut für Informationswissenschaft, Chur
-- [USI](https://usi.ch/): Università della Svizzera italiana, Lugano
-
-
-The project is endorsed and supported by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It was submitted in February 2018 and accepted in June 2018.
+SONAR was originally a project supported by [swissuniversities](https://www.swissuniversities.ch) in the framework of the [P-5 "Scientific Information" Program](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/). It was submitted in February 2018 and accepted in June 2018. The first services went into production in early 2021.
 
 <a href="https://www.swissuniversities.ch"><img id="swissuniversities" src="/images/partners/swissuniversities_Logo_minimal_Rot_PANTONE.svg"></a>
 
-An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf). It provides a more detailed description of the motivations, goals and planned implementation.
+An abridged version of the project application document is [available here](/documents/SONAR_project_application_20180218_short.pdf). It provides a more detailed description of the motivations, goals and original plan.
 
 <section id="two">
 	<div class="row">
 		<article class="6u 12u$(xsmall) work-item">
 			<div class=" project-info">
 				<img class="" src="/images/noun_goal_1607166_modif.svg" alt="" />
-				<h2>Goals</h2>
+				<h2>Project goals</h2>
+				<br/>
 				<h3>Science showcase</h3>
 				<ul>
 					<li>Collect, promote and preserve scholarly publications of authors affiliated with Swiss public research institutions</li>
@@ -49,7 +40,6 @@ An abridged version of the project application document is [available here](/doc
 				<ul>
 					<li>Duration: Nov. 2018 – Oct. 2020 (24&nbsp;months)</li>
 					<li>Total cost (incl. own funding): 997'800 CHF</li>
-					<li>Main building block: <a href="https://doc.rero.ch/">Digital&nbsp;Library RERO&nbsp;DOC</a></li>
 					<li>Software platform: <a href="https://invenio-software.org">Invenio&nbsp;3</a></li>
 				</ul>
 			</div>
@@ -59,7 +49,7 @@ An abridged version of the project application document is [available here](/doc
 
 
 <section>
-	<h2>Partners</h2>
+	<h2>Project partners 2018-2020</h2>
 	<div class="project-partners">
 		<a href="https://www.rero.ch/"><img src="/images/partners/logo_rero.svg"></a>
 		<a href="https://www.hes-so.ch/"><img src="/images/partners/logo-hes-so-couleur-quadri-1133.svg"></a>

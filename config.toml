@@ -43,44 +43,71 @@ rssLimit = 20
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "sonar_logo_early.white_curves_web.svg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "*\"collect, promote and preserve scholarly publications of authors affiliated with Swiss public research institutions...\"*"
+		bio = "*\"collect and promote scholarly publications of authors affiliated with Swiss public research institutions...\"*"
 		# The icons will be shown if you enter your username
 		twitter = "sonardotch"
 		github = "rero/sonar"
 		facebook = ""
 
 		copyright = [
-			"&copy; 2018-2020 RERO",
+			"&copy; 2018-2021 RERO",
 			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
 
 	[params.about]
 		hide  = false
-		title = "Swiss Open Access Repository"
+		title = "What is SONAR"
 		content = """
-SONAR is an archive of scholarly publications. It intends to collect, promote and preserve the publications of authors affiliated with Swiss public research institutions.
+The Swiss Open Access Repository is an archive of scholarly publications. It collects and promotes open access publications by authors affiliated with Swiss public research institutions. It does so by aggregating content and metadata from international sources as well as from institutional repositories (IR) of Swiss Higher Education Institutions (HEI).
 
-<div class="homepage-promotion">
-<a href="/project/">
-<div class="homepage-promotion-link">
-<h3>The project</h3>
-<img src="/images/noun_Blueprint_1050_000000_modif.svg">
-</div>
-</a>
-<a href="/service/">
-<div class="homepage-promotion-link">
-<h3>The services</h3>
-<img src="/images/noun_international_1670627_modif.svg">
-</div>
-</a>
-</div>
+SONAR also proposes a subscription-based "[IR hosting service](/iraas/)" for interested HEIs, thereby acting as their primary research showcase and allowing their authors to directly deposit their publications.
 
-It acts as an **aggregator**, bringing together the content and metadata of existing platforms and servers, including the institutional repositories (IR) of Swiss Higher Education Institutions, as well as international subject repositories. It also operates as a content **disseminator**: both to Swiss IRs and to the Web at large, namely to search engines of scholarly literature such as Google Scholar and Microsoft Academic.
+SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, led by [swissuniversities](https://www.swissuniversities.ch).
 
-Besides the automated harvesting service, interested Swiss Higher Education Institutions can subscribe to an[ outsourced institutional repository service](/iraas/), allowing their authors to directly deposit publications in SONAR.
 
-SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, lead by [swissuniversities](https://www.swissuniversities.ch).
+## Stay informed
+
+You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)
+
+
+## Services
+
+<section id="two">
+	<div class="row">
+		<article class="12u 12u$(xsmall) work-item">
+			<div class=" project-info">
+				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
+				<h3>IR hosting</h3><br/>
+				Institutional Repository as a Service (IRaaS) provided in two distinct forms:
+				<ul>
+					<li>As a shared, multi-institutional portal</li>
+					<li>As dedicated, individually customized portals</li>
+				</ul>
+				Status: <strong>in production</strong> &nbsp; | &nbsp; Details: <a href="/iraas/">IR hosting</a>
+			</div>
+		</article>
+		<article class="12u 12u$(xsmall) work-item">
+			<div class=" project-info">
+				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
+				<h3>Content tracking and processing</h3><br/>
+                                <ul>
+				        <li>Acquisition of Swiss affiliated research publications from external sources and Swiss IRs.</li>
+                                        <li>Enrichment of Swiss IRs with externally retrieved publications.</li>
+                                </ul>
+				Status: <strong>prospective service</strong> &nbsp; | &nbsp; Details: <a href="/tracking/">Content tracking</a>
+			</div>
+		</article>
+		<article class="12u 12u$(xsmall) work-item">
+			<div class=" project-info">
+				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
+				<h3>Open Access monitoring</h3><br/>
+				Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction">Swiss national Open Access strategy</a> and its action plan [to be planned]<br/>
+				<strong>Status: prospective service</strong>
+			</div>
+		</article>
+	</div>
+</section>
 """
 
 	[params.portfolio]
@@ -91,36 +118,32 @@ SONAR contributes to the [Swiss national Open Access strategy](https://www.swiss
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
-		title = "Stay informed"
-		content = """
-You can subscribe to our newsletter or contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)
-<div id="newsletter">
-<iframe src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/1" scrolling="auto" allowfullscreen="" style="display: block;margin-left: auto;margin-right: auto;width: 100%;" width="600" height="200" frameborder="0"></iframe>
-<div id="newsletter-conditions">Your e-mail address is only used to send you our newsletter and information about the activities of SONAR. You can always use the unsubscribe link included at the bottom of each e-mail message you receive from SONAR. This newsletter is managed using the service https://www.sendinblue.com/gdpr/, with activity tracking mode disabled.</div>
-</div>
-"""
-		email = "info.sonar@rero.ch"
+		hide  = true
 
 
 # Menu links that appear on the left sidebar
 
 [[menu.main]]
- 	name = "The project"
- 	url  = "project/"
+ 	name = "IR hosting"
+ 	url  = "/iraas/"
  	weight = 10
 
 [[menu.main]]
- 	name = "The services"
- 	url  = "/service/"
+ 	name = "Content tracking"
+ 	url  = "/tracking/"
  	weight = 20
-
-[[menu.main]]
- 	name = "IR hosting"
- 	url  = "/iraas/"
- 	weight = 30
 
 [[menu.main]]
  	name = "FAQ"
  	url  = "/faq/"
+ 	weight = 30
+
+[[menu.main]]
+ 	name = "Origin"
+ 	url  = "/origin/"
  	weight = 40
+
+[[menu.main]]
+ 	name = "Contact"
+ 	url  = "/contact/"
+ 	weight = 50
