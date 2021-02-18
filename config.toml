@@ -59,9 +59,9 @@ rssLimit = 20
 		hide  = false
 		title = "What is SONAR"
 		content = """
-The Swiss Open Access Repository is an archive of scholarly publications. It collects and promotes open access publications by authors affiliated with Swiss public research institutions. It does so by aggregating content and metadata from international sources as well as from institutional repositories (IR) of Swiss Higher Education Institutions (HEI).
+The Swiss Open Access Repository is an **archive of scholarly publications**. It collects and promotes **open access publications by authors affiliated with Swiss public research institutions**. It does so by aggregating content and metadata from international sources as well as from institutional repositories (IR) of Swiss Higher Education Institutions (HEI).
 
-SONAR also proposes a subscription-based "[IR hosting service](/iraas/)" for interested HEIs, thereby acting as their primary research showcase and allowing their authors to directly deposit their publications.
+SONAR also proposes a subscription-based **"[IR hosting service](/iraas/)"** for interested HEIs, thereby acting as their primary research showcase and allowing their authors to directly deposit their publications.
 
 SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, led by [swissuniversities](https://www.swissuniversities.ch).
 
