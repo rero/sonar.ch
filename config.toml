@@ -129,6 +129,11 @@ You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@re
  	weight = 10
 
 [[menu.main]]
+ 	name = "IR hosting"
+ 	url  = "/iraas/"
+ 	weight = 10
+
+[[menu.main]]
  	name = "Content tracking"
  	url  = "/tracking/"
  	weight = 20
