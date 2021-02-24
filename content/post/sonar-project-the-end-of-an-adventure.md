@@ -5,7 +5,7 @@ draft: false
 tags: ["project"]
 ---
 
-After two years of intense work, cross-institutional exchanges, lively debates, feasibility analysis and exploratory tests, the SONAR project ended at the end of 2020. It was carried out as part of the P-5 program "Scientific Information: Access, Processing and Storage" of swissuniversities. The objective was to set up a national platform for open access scientific publications.
+After two years of intensive work, cross-institutional exchanges, lively debates, feasibility analysis and exploratory tests, the SONAR project ended at the end of 2020. It was carried out as part of the P-5 program "Scientific information: access, processing and safeguarding" of swissuniversities. The objective was to set up a national platform for open access scientific publications.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ SONAR brought together participants from the four corners (literaly!) of Switzer
 
 * [RERO](https://www.rero.ch/)
 
-   * Miguel Moreira (principal investigator)
+   * Miguel Moreira (project manager)
    * Sébastien Délèze
    * Johnny Mariéthoz
    * Igor Milhit
@@ -26,7 +26,7 @@ SONAR brought together participants from the four corners (literaly!) of Switzer
 
 * [HES-SO](https://www.hes-so.ch/) / [HEG&nbsp;Genève](https://www.hesge.ch/heg/)
 
-   * Patrick Ruch (co-investigator)
+   * Patrick Ruch (deputy project manager)
    * Julien Gobeill
    * Jeevanthi Liyanapathirana
    * Anouk Santos
@@ -46,4 +46,4 @@ SONAR brought together participants from the four corners (literaly!) of Switzer
 
 Various services have been designed and will take over the project. The infrastructure is ready to welcome client institutions and also to progressively replace RERO DOC in the course of 2021. The transition to production will be done gradually according to the planning of the interested institutions. Various discussions are under way.
 
-The SONAR go-live will be announced in the next weeks.
+The SONAR go-live will be announced in the coming weeks.
