@@ -1,6 +1,6 @@
 ---
 title: "SONAR project: the end of an adventure"
-date: 2021-02-18T12:00:00+02:00
+date: 2021-03-01T12:00:00+02:00
 draft: false
 tags: ["project"]
 ---
