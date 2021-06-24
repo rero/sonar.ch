@@ -4,7 +4,7 @@ date: 2020-11-12T11:07:00+01:00
 draft: false
 ---
 
-The SONAR team at RERO can host your institutional repository platform, using [Invenio 3](https://invenio-software.org) software technology and the IT infrastructure of RERO in Martigny, Switzerland.
+The SONAR team at RERO+ can host your institutional repository platform, using [Invenio 3](https://invenio-software.org) software technology and the IT infrastructure of RERO+ in Martigny, Switzerland.
 
 Please contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch) for pricing details or other information. 
 
