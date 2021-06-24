@@ -6,7 +6,7 @@ draft: false
 
 Visual layout:
 
-- <a href="https://github.com/digitalcraftsman/hugo-strata-theme">Strata</a> theme for <a href="https://gohugo.io">Hugo</a>, adapted by RERO
+- <a href="https://github.com/digitalcraftsman/hugo-strata-theme">Strata</a> theme for <a href="https://gohugo.io">Hugo</a>, adapted by RERO+
 
 Icons by the [Noun Project](https://thenounproject.com):
 

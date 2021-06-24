@@ -51,7 +51,7 @@ Yes, datasets are accepted in two ways.
 - For each record, a main file can be added, as well as additional files (annexes, figures, datasets).
 - Datasets can also be deposited as independent objects with their own metadata record.
 
-The exhaustive list of document types is available in the [SONAR documentation](https://sonar.test.rero.ch/help/document_types/).
+The exhaustive list of document types is available in the [SONAR documentation](https://sonar.ch/help/document_types/).
 
 #### Must a record entry contain a file or is it possible to only upload metadata?
 
@@ -86,19 +86,6 @@ No. The data quality is always the responsibility of the depositing institution,
 
 Both. SONAR indexes all the full-text contents. By default, the search interface only provides results based on metadata search, for reasons of relevance. But a button easily allows the user to extend the search to the full-text contents.
 
-#### Which searching facets/filters are available?
-
-The facets below are available. Other can be added according to client's needs. The beta SONAR can be tested here: [sonar.test.rero.ch](https://sonar.test.rero.ch).
-
-* Document type
-* Swiss affiliation
-* Year
-* Specific collection
-* Language
-* Author
-* Subject
-* Organisation
-
 #### Which sorting options are available?
 
 For now, SONAR does not have sorting options, but it is on the roadmap: we intend to integrate a basic sort by date (ascending, descending) and title. Other are not excluded if there is a need.
@@ -111,7 +98,7 @@ The [Shared repository](/iraas/#shared_vs_dedicated) is searchable via the SONAR
 
 #### What information is shown for each document, each search result?
 
-The displayed information can be seen on [sonar.test.rero.ch](https://sonar.test.rero.ch). The following fields are displayed in the detailed view of a document (others can be added according to client's needs):
+The displayed information can be seen on [sonar.ch](https://sonar.ch). The following fields, among others, are displayed in the detailed view of a document (others can be added according to client's needs):
 
 * Document type
 * Title
@@ -120,14 +107,12 @@ The displayed information can be seen on [sonar.test.rero.ch](https://sonar.test
 * Extent
 * Journal (for an article)
 * Dissertation note (for a thesis)
-* Abstract/author
+* Research project
+* Collection
 * Subjects
 * Abstract
 * Identifiers (DOI, PMID, ...)
-* Other electronic version
-* Language
-* Classification
-
+* Etc.
 
 ## Data export and harvesting {#export}
 
@@ -139,7 +124,7 @@ Yes. The records are harvested by Google Scholar.
 
 #### Is the OAI-PMH protocol available for 3rd party harvesting?
 
-Yes. The OAI-PMH interface is available.
+Yes. The OAI-PMH interface is available at https://sonar.ch/oai2d.
 
 In the [Shared repository](/iraas/#shared_vs_dedicated), an [OAI-PMH *set*](http://www.openarchives.org/OAI/openarchivesprotocol.html#SelectiveHarvesting) exists for each institution.
 
@@ -156,11 +141,11 @@ Metadata export is possible in Dublin Core via OAI-PMH. Other export formats (RI
 
 #### What types of user groups and permissions exist in SONAR?
 
-There are four different roles – basic user, submitter, moderator, admin – with increasing permissions. More details in the [SONAR documentation](https://sonar.test.rero.ch/help/user_roles/).
+There are four different roles – basic user, submitter, moderator, admin – with increasing permissions. More details in the [SONAR documentation](https://sonar.ch/help/user_roles/).
 
 #### What are the policies concerning deleting documents?
 
-Only persons with an "admin" role are allowed to delete documents. More details in the [SONAR documentation](https://sonar.test.rero.ch/help/user_roles/).
+Only persons with an "admin" role are allowed to delete documents. More details in the [SONAR documentation](https://sonar.ch/help/user_roles/).
 
 
 ## Transition from RERO DOC {#rerodoc}
@@ -169,15 +154,15 @@ Only persons with an "admin" role are allowed to delete documents. More details 
 
 #### How long does RERO DOC remain in service?
 
-RERO DOC remains online until at least June 2021.
+RERO DOC remains online until December 2021.
 
 #### Will RERO DOC publications be automatically transferred to SONAR?
 
-No. As the price model changes, institutions must adhere to the new service. They will be contacted by RERO.
+No. As the price model changes, institutions must adhere to the new service. They have been contacted by RERO+.
 
 #### When can institutions migrate from RERO DOC to SONAR?
 
-The migration process can take place from early January 2021.
+The migration process is taking place since January 2021.
 
 #### Will RERO DOC links be redirected to SONAR?
 
@@ -195,7 +180,7 @@ It is determined on the basis of two criteria: an annual fee per document and an
 
 #### Is documentation available?
 
-Yes. SONAR provides [help pages](https://sonar.test.rero.ch/help/). They currently exist only in English, but translations are being prepared.
+Yes. SONAR provides [help pages](https://sonar.ch/help/). They currently exist only in English, but translations are being prepared.
 
 #### Does SONAR provide a long-term archiving solution?
 
@@ -203,6 +188,6 @@ Not yet. Currently, SONAR includes basic archiving features, which means: backup
 
 #### Will SONAR move to the upcoming InvenioRDM platform?
 
-Maybe. The timeline of InvenioRDM is a bit behind our project's deadlines, as SONAR must go live this year (2020). The good thing is that InvenioRDM is based on [Invenio 3](https://invenio-software.org), as is the case of SONAR, which means that common developments are possible. A complete move to InvenioRDM in the longer term is not to be excluded.
+Maybe in the future. The good thing is that InvenioRDM is based on [Invenio 3](https://invenio-software.org), as is the case of SONAR, which means that common developments are possible. A complete move to InvenioRDM in the longer term is not to be excluded.
 
 ----------
