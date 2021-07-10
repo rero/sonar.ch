@@ -1,0 +1,8 @@
+<figure>
+    <video controls="controls" preload="metadata" style="max-width:100%;">
+        <source src="/videos/{{ .Get "src" }}.mp4" type="video/mp4">
+        Your browser does not support the video tag, you can download the video
+        with <a href="/videos/{{ .Get "src" }}.mp4">this link</a>
+    </video>
+    <figcaption>{{ .Get "legend" }}</figcaption>
+</figure>
