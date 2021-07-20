@@ -1,6 +1,6 @@
 ---
 title: "What's new on the SONAR portal?"
-date: 2021-07-10T12:00:00+02:00
+date: 2021-07-20T11:00:00+02:00
 draft: false
 tags: ["features", "research projects", "collections", "persistent identifiers", "local fields"]
 ---
