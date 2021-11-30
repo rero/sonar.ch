@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-date: 2020-12-23
+date: 2021-12-01
 draft: false
 ---
 
@@ -8,6 +8,7 @@ draft: false
 
 * [Document upload: workflow and conditions](#upload)
 * [Search and explore data](#search)
+* [Persistent identifiers](#persistent)
 * [Data export and harvesting](#export)
 * [User roles and permissions](#permissions)
 * [Transition from RERO DOC](#rerodoc)
@@ -20,15 +21,15 @@ __________
 
 #### It is possible to enter already existing DOIs?
 
-Yes. When importing or manually depositing publications in SONAR, it is possible to include existing identifiers (DOI, PMID, etc.). The attribution of DOI/ARK by SONAR is mainly meant for resources without other persistent identifiers.
+Yes. When importing or manually depositing publications in SONAR, it is possible to include existing identifiers (DOI, PMID, etc.).
 
 #### Which access options are possible to choose: open, embargoed, others?
 
-Open and embargoed publications are available in the [Shared repository](/iraas/#shared_vs_dedicated). Closed access is also possible in [Dedicated repositories](/iraas/#shared_vs_dedicated). More details on the [IR hosting](/iraas/) page.
+Open and embargoed publications are available in the [Shared repository](/iraas/#shared_vs_dedicated). Closed access is also possible in [Dedicated repositories](/iraas/#shared_vs_dedicated). For the technical possibilities, see the [SONAR documentation](https://sonar.ch/help/file_management_en/).
 
 #### Which licencing models are admitted for deposited publications?
 
-These are the currently available options, but this list can be extended according to client's needs:
+SONAR does not decide which licences are allowed: this is a task of the institutions using the platform. The metadata allows to select one of the following options:
 
 * CC0
 * CC BY
@@ -46,7 +47,7 @@ No. Currently, SONAR is a *deposit* facility; it retains no rights, apart from t
 
 #### Which document types are accepted? Are datasets accepted?
 
-Yes, datasets are accepted in two ways.
+All document types are accepted, including datasets. The latters can be referenced in two ways:
 
 - For each record, a main file can be added, as well as additional files (annexes, figures, datasets).
 - Datasets can also be deposited as independent objects with their own metadata record.
@@ -67,7 +68,7 @@ The limit for each file is currently set at 500 MB. Technically, we can set a hi
 
 #### Is the author charged a fee for publishing in SONAR?
 
-No, not the authors directly. Institutions pay an annual fee for using the hosting service, which allows their authors to deposit. SONAR is not a publishing platform (maybe in the future!) but a deposit platform for publications.
+No, not the authors directly. Institutions pay an annual fee for using the hosting service, which allows their authors to deposit.
 
 #### Is the author able to deposit publications exclusively in his/her institution's repository or also into the global SONAR portal?
 
@@ -88,7 +89,7 @@ Both. SONAR indexes all the full-text contents. By default, the search interface
 
 #### Which sorting options are available?
 
-For now, SONAR does not have sorting options, but it is on the roadmap: we intend to integrate a basic sort by date (ascending, descending) and title. Other are not excluded if there is a need.
+By default, document search results are sorted by relevance. But it is possible to change this and sort them by title and by date (ascending, descending).
 
 #### In a [Dedicated repository](/iraas/#shared_vs_dedicated), are the search results coming from the global SONAR or only from that specific repo?
 
@@ -113,6 +114,24 @@ The displayed information can be seen on [sonar.ch](https://sonar.ch). The follo
 * Abstract
 * Identifiers (DOI, PMID, ...)
 * Etc.
+
+## Persistent identifiers {#persistent}
+
+[🔝 Back to top](#categories)
+
+#### SONAR assigns ARKs, but what are they?
+
+ARK means Archival Resource Key. An ARK is a persistent identifier. It looks like this `ark:/53355/cl010066723` but can also be expressed as an URL.
+
+#### What is the difference between ARK and DOI?
+
+Both are persistent identifiers. The ARK solution is managed in a more decentralised way: each organisation can run its own ARK server. While DOIs are meant for publications, ARKs can be assigned to any type of web resources like persons or places.
+
+#### Why doesn't SONAR assign DOIs? Is this planned for the future?
+
+DOIs are key identifiers for scientific publications, but in most of the cases, these publications already receive a DOI from a commercial publisher. More than one DOI should ideally not be assigned to the same document. This could have a negative impact, for instance for OA monitoring where they play a key role. This is why SONAR assigns ARKs and has a dedicated field for storing existing DOIs.
+
+In the future, it is not excluded to implement DOI assignment if this is a need. As the DOI price model is different, this might increase the costs of SONAR.
 
 ## Data export and harvesting {#export}
 
@@ -154,7 +173,7 @@ Only persons with an "admin" role are allowed to delete documents. More details 
 
 #### How long does RERO DOC remain in service?
 
-RERO DOC remains online until December 2021.
+RERO DOC remains online until December 2021, unless there is a specific agreement. RERO+ will not delete or disable any data without confirmation of the owning institution.
 
 #### Will RERO DOC publications be automatically transferred to SONAR?
 
@@ -164,15 +183,13 @@ No. As the price model changes, institutions must adhere to the new service. The
 
 The migration process is taking place since January 2021.
 
-#### Will RERO DOC links be redirected to SONAR?
+#### Are RERO DOC links redirected to SONAR?
 
-Yes, in principle. This is under analysis, as some publications won't be in SONAR, and [some will be in RERO&nbsp;ILS](https://rero21.ch/en/rero-ils-en-production-en-2021/).
-
+Yes, they are. Of course, this is only the case for publications migrated to SONAR.
 
 ## General questions {#general}
 
 [🔝 Back to top](#categories)
-
 
 #### What is the price of the Institutional Repository as a Service?
 
