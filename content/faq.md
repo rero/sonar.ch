@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-date: 2021-12-01
+date: 2022-07-06
 draft: false
 ---
 
@@ -29,7 +29,7 @@ Open and embargoed publications are available in the [Shared repository](/iraas/
 
 #### Which licencing models are admitted for deposited publications?
 
-SONAR does not decide which licences are allowed: this is a task of the institutions using the platform. The metadata allows to select one of the following options:
+SONAR does not decide which licences are allowed: this is a task of the institutions using the platform. The metadata allows to indicate a usage and access policy and/or select one of the following options:
 
 * CC0
 * CC BY
@@ -50,7 +50,7 @@ No. Currently, SONAR is a *deposit* facility; it retains no rights, apart from t
 All document types are accepted, including datasets. The latters can be referenced in two ways:
 
 - For each record, a main file can be added, as well as additional files (annexes, figures, datasets).
-- Datasets can also be deposited as independent objects with their own metadata record.
+- Datasets can also be deposited as independent objects with their own metadata record, which can be linked to another record.
 
 The exhaustive list of document types is available in the [SONAR documentation](https://sonar.ch/help/document_types/).
 
@@ -64,7 +64,7 @@ All formats are accepted. Each institution defines its own acceptance policies.
 
 #### What is the maximum file size accepted?
 
-The limit for each file is currently set at 500 MB. Technically, we can set a higher limit, but we care about users who might find themselves downloading very large files without noticing it, for instance using a mobile terminal on a limited data plan, or in roaming.
+There is no file size limit.
 
 #### Is the author charged a fee for publishing in SONAR?
 
@@ -99,21 +99,7 @@ The [Shared repository](/iraas/#shared_vs_dedicated) is searchable via the SONAR
 
 #### What information is shown for each document, each search result?
 
-The displayed information can be seen on [sonar.ch](https://sonar.ch). The following fields, among others, are displayed in the detailed view of a document (others can be added according to client's needs):
-
-* Document type
-* Title
-* Contributors (name, ORCID, affiliation, Swiss controlled affiliation)
-* Date (and full publication statement if applicable)
-* Extent
-* Journal (for an article)
-* Dissertation note (for a thesis)
-* Research project
-* Collection
-* Subjects
-* Abstract
-* Identifiers (DOI, PMID, ...)
-* Etc.
+The displayed information can be seen on [sonar.ch](https://sonar.ch). All the main fields are shown to the user.
 
 ## Persistent identifiers {#persistent}
 
@@ -131,7 +117,7 @@ Both are persistent identifiers. The ARK solution is managed in a more decentral
 
 DOIs are key identifiers for scientific publications, but in most of the cases, these publications already receive a DOI from a commercial publisher. More than one DOI should ideally not be assigned to the same document. This could have a negative impact, for instance for OA monitoring where they play a key role. This is why SONAR assigns ARKs and has a dedicated field for storing existing DOIs.
 
-In the future, it is not excluded to implement DOI assignment if this is a need. As the DOI price model is different, this might increase the costs of SONAR.
+In the future, it is not excluded to implement DOI assignment, as an option. As the DOI price model is different, this option might increase the costs of SONAR.
 
 ## Data export and harvesting {#export}
 
@@ -143,7 +129,7 @@ Yes. The records are harvested by Google Scholar.
 
 #### Is the OAI-PMH protocol available for 3rd party harvesting?
 
-Yes. The OAI-PMH interface is available at https://sonar.ch/oai2d.
+Yes. An OAI-PMH interface is available, see [the documentation](https://sonar.ch/help/oai-pmh/).
 
 In the [Shared repository](/iraas/#shared_vs_dedicated), an [OAI-PMH *set*](http://www.openarchives.org/OAI/openarchivesprotocol.html#SelectiveHarvesting) exists for each institution.
 
@@ -151,7 +137,7 @@ In [Dedicated repositories](/iraas/#shared_vs_dedicated), custom [OAI-PMH *sets*
 
 #### Which metadata export formats are available?
 
-Metadata export is possible in Dublin Core via OAI-PMH. Other export formats (RIS, BibTeX, MARC21/XML) can be added later according to client's needs.
+Metadata export is possible in [native Bibframe/JSON via the REST API](https://sonar.ch/help/rest_api_endpoints/) or in [Dublin Core via OAI-PMH](https://sonar.ch/help/oai-pmh/). Other export formats (RIS, BibTeX, MARC21/XML) can be added later according to client's needs.
 
 
 ## User roles and permissions {#permissions}
@@ -173,9 +159,9 @@ Only persons with an "admin" role are allowed to delete documents. More details 
 
 #### How long does RERO DOC remain in service?
 
-RERO DOC remains online until December 2021, unless there is a specific agreement. RERO+ will not delete or disable any data without confirmation of the owning institution.
+RERO DOC remains online exclusively for libraries using RERO ILS. All other contents are progressively removed and transferred to another service. RERO+ is not deleting any data without confirmation of the owning institution.
 
-#### Will RERO DOC publications be automatically transferred to SONAR?
+#### Are RERO DOC publications automatically transferred to SONAR?
 
 No. As the price model changes, institutions must adhere to the new service. They have been contacted by RERO+.
 
@@ -197,7 +183,7 @@ It is determined on the basis of two criteria: an annual fee per document and an
 
 #### Is documentation available?
 
-Yes. SONAR provides [help pages](https://sonar.ch/help/). They currently exist only in English, but translations are being prepared.
+Yes. SONAR provides [help pages](https://sonar.ch/help/). The help for the administration currently only exists in English, but translations are being prepared.
 
 #### Does SONAR provide a long-term archiving solution?
 

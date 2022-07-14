@@ -1,6 +1,6 @@
 ---
 title: "Institutional Repository as a Service"
-date: 2020-11-12T11:07:00+01:00
+date: 2022-07-06T08:07:00+01:00
 draft: false
 ---
 
@@ -12,8 +12,8 @@ Please contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch) for pricing
 
 This service is provided in two distinct forms:
 
-- **Shared repository**: a multi-institutional portal, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet). [currently in tests, opening planned for **late 2020**]
-- **Dedicated repositories** are independent portals, each with its own distinct identity and policies, and other extended features. [planned for **Q1 2021**]
+- **Shared repository**: a multi-institutional portal, with a single common search and navigation interface, as well as common deposit policies. The documents of each institution are contained in a dedicated collection, with a unique URL (permalink) and an entry in the "Institution" filter (facet).
+- **Dedicated repositories** are independent portals, each with its own distinct identity and policies, and other extended features.
 
 
 ## Features common to both forms:
@@ -21,7 +21,7 @@ This service is provided in two distinct forms:
 - The interface is available in English, German, French and Italian
 - Allows direct depositing of documents by scholars or students, with a validation workflow
 - Supports SWITCH edu-ID and ORCID authentication
-- Every deposited document is assigned a persistent identifier (DOI or ARK)
+- Every deposited document is assigned a persistent identifier (ARK)
 - Access embargos can be defined
 - Metadata associated with a document include:
     - DOI, ARK, PMID and other identifier schemes
@@ -33,7 +33,7 @@ This service is provided in two distinct forms:
 
 ## Shared repository features
 
-- Documents are searchable and accessible in the SONAR global portal https://sonar.ch [upcoming]
+- Documents are searchable and accessible in the SONAR global portal https://sonar.ch
 - The documents of each client institution are grouped within a dedicated collection, with the following features:
 	- a permalink of the kind `https://sonar.ch/[institution]`
 	- a landing page with a brief description
@@ -48,9 +48,8 @@ This service is provided in two distinct forms:
 
 ## Dedicated repositories features
 
-- The documents are searchable and accessible in an independent portal behind a custom URL `https://[institution domain]`. Open access documents are visible in the SONAR global portal as well https://sonar.ch [upcoming]
+- The documents are searchable and accessible in an independent portal behind a custom URL `https://[institution domain]`. Open access documents are visible in the SONAR global portal as well https://sonar.ch
 - The portal has custom branding (logo, styles)
-- Content and access statistics are available
 - Account grouping: submission and validation accounts can be grouped by department or by any other institutional subdivision
 - Each document:
 	- can be of any kind, not necessarily scholarly - meaning that the portal can become a versatile "digital library"
