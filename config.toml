@@ -50,7 +50,7 @@ rssLimit = 20
 		facebook = ""
 
 		copyright = [
-			"&copy; 2018-2021 RERO+",
+			"&copy; 2018-2022 RERO+",
 			"[info.sonar@rero.ch](mailto:info.sonar@rero.ch)",
 			"[Credits](/credits/)"
 		]
@@ -59,17 +59,11 @@ rssLimit = 20
 		hide  = false
 		title = "What is SONAR"
 		content = """
+
+
+**This website is an archive of the documentation of the SONAR project (2018-2020). All further details and up-to-date info about the SONAR service can be found on [the dedicated page](https://www.rero.ch/en/produits/sonar) on the RERO+ website.**
+
 The Swiss Open Access Repository is an **archive of scholarly publications**. It collects and promotes **open access publications by authors affiliated with Swiss public research institutions**. It does so by aggregating content and metadata from international sources as well as from institutional repositories (IR) of Swiss Higher Education Institutions (HEI).
-
-SONAR also proposes a subscription-based **"[IR hosting service](/iraas/)"** for interested HEIs, thereby acting as their primary research showcase and allowing their authors to directly deposit their publications.
-
-SONAR contributes to the [Swiss national Open Access strategy](https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction) and its action plan, led by [swissuniversities](https://www.swissuniversities.ch).
-
-
-## Stay informed
-
-You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@rero.ch](mailto:info.sonar@rero.ch)
-
 
 ## Services
 
@@ -84,7 +78,7 @@ You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@re
 					<li>As a shared, multi-institutional portal</li>
 					<li>As dedicated, individually customized portals</li>
 				</ul>
-				Status: <strong>in production</strong> &nbsp; | &nbsp; Details: <a href="/iraas/">IR hosting</a>
+				Status: <strong>in production</strong>
 			</div>
 		</article>
 		<article class="12u 12u$(xsmall) work-item">
@@ -95,15 +89,15 @@ You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@re
 				        <li>Acquisition of Swiss affiliated research publications from external sources and Swiss IRs.</li>
                                         <li>Enrichment of Swiss IRs with externally retrieved publications.</li>
                                 </ul>
-				Status: <strong>prospective service</strong> &nbsp; | &nbsp; Details: <a href="/tracking/">Content tracking</a>
+				Status: <strong>prospective service</strong>
 			</div>
 		</article>
 		<article class="12u 12u$(xsmall) work-item">
 			<div class=" project-info">
 				<img class="" src="/images/noun_Brochure_79251_000000_modif.svg" alt="" />
 				<h3>Open Access monitoring</h3><br/>
-				Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction">Swiss national Open Access strategy</a> and its action plan [to be planned]<br/>
-				<strong>Status: prospective service</strong>
+				Measuring scientific publication activity in Switzerland, namely of Open Access adoption, in the framework of the <a href="https://www.swissuniversities.ch/fr/themes/digitalisation/open-access-campagne/strategie-nationale-et-plan-daction">Swiss national Open Access strategy</a> and its action plan [to be planned]<br/><br/>
+				Status: <strong>prospective service</strong>
 			</div>
 		</article>
 	</div>
@@ -124,26 +118,11 @@ You can subscribe to our [newsletter](/contact/) or contact us at [info.sonar@re
 # Menu links that appear on the left sidebar
 
 [[menu.main]]
- 	name = "IR hosting"
- 	url  = "/iraas/"
+ 	name = "The service"
+ 	url  = "/"
  	weight = 10
 
 [[menu.main]]
- 	name = "Content tracking"
- 	url  = "/tracking/"
+ 	name = "The project"
+ 	url  = "/project/"
  	weight = 20
-
-[[menu.main]]
- 	name = "FAQ"
- 	url  = "/faq/"
- 	weight = 30
-
-[[menu.main]]
- 	name = "Origin"
- 	url  = "/origin/"
- 	weight = 40
-
-[[menu.main]]
- 	name = "Contact"
- 	url  = "/contact/"
- 	weight = 50
